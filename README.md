@@ -58,7 +58,7 @@ ___
 <ul>
   <li>4.1 - <a>i3status</a></li>
   <li>4.1 - <a>i3blocks</a></li>
-  <li>4.2 - <a>pulybar</a></li>
+  <li>4.2 - <a>polybar</a></li>
 </ul>
 
 <h3>5. Iniciador de Aplicativos</h3>
