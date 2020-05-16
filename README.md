@@ -21,64 +21,78 @@ ___
 
 <br>
 
-<h2 align="center">Roadmap</h2>
+<h3 align="center">Roadmap</h3>
 
 <br>
 
-# i3wm
+<hr>
 
-### 1 - Introdução
+<br>
 
-* 1.1 - O que é e porque usar
-* 1.2 - Instalação
-* 1.3 - Comandos básicos para sobrevivência
-* 1.4 - Diretórios e funcionalidades
+<h2>i3wm</h2>
 
+<h3>1. Introdução</h3>
+<ul>
+  <li><a>1.1 - O que é e porque usar</a></li>
+  <li><a>1.2 - Instalação</a></li>
+  <li><a>1.3 - Comandos básicos para sobrevivência</a></li>
+  <li><a>1.4 - Diretórios e funcionalidades</a></li>  
+</ul>
 
-### 2 - Usabilidade
+<h3>2. Usabilidade</h3>
+<ul>
+  <li><a>2.1 - Abrindo processos</a></li>
+  <li><a>2.2 - Manipulando posicionamento de janelas</a></li>
+  <li><a>2.3 - Matando processos</a></li>
+</ul>
 
-* 2.1 - Abrindo processos
-* 2.2 - Manipulando posicionamento de janelas
-* 2.3 - Matando processos
+<h3>3. Arquivo de Configuração</h3>
+<ul>
+  <li><a>3.1 - Entendendo conceitos básicos</a></li>
+  <li><a>3.2 - Criando seus próprios atalhos</a></li>
+  <li><a>3.3 - Exec e Exec_Always</a></li>
+  <li><a>3.4 - Configurações básicas da barra de ferramentas</a></li>
+</ul>
 
+<h3>4. Barra de Status</h3>
+<ul>
+  <li><a>4.1 - i3status</a></li>
+  <li><a>4.1 - i3blocks</a></li>
+  <li><a>4.2 - pulybar</a></li>
+</ul>
 
-### 3 - Arquivo .config
+<h3>5. Iniciador de Aplicativos</h3>
+<ul>
+  <li><a>5.1 - dmenu</a></li>
+  <li><a>5.2 - rofi</a></li>
+</ul>
 
-* 3.1 - Entendendo conceitos básicos
-* 3.1 - Criando seus próprios atalhos
-* 3.2 - Exec e Exec_Always
-* 3.3 - Configurações básicas da barra de ferramentas
+<h3>6. Terminal</h3>
+<ul>
+  <li><a>6.1 - Como alterar o terminal padrão</a></li>
+  <li><a>6.2 - Qual terminal usar?</a></li>
+  <li><a>6.3 - Customizando o terminal</a></li>
+</ul>
 
+<h3>7. Customização</h3>
+<ul>
+  <li><a>7.1 - Instalando fontes personalizadas</a></li>
+  <li><a>7.2 - Customizando a polybar</a></li>
+  <li><a>7.3 - Customizando seu rofi</a></li>
+  <li><a>7.4 - Customizando janelas</a></li>
+  <li><a>7.5 - Instalando temas</a></li>
+</ul>
 
-### 4 - Barra de Status
+<h3>8. Extra</h3>
+<ul>
+  <li><a>8.1 - Como usar o conky no i3wm</a></li>
+  <li><a>8.2 - Como configurar dois monitores no i3wm usando o xrandr</a></li>
+</ul>
 
-* 4.1 - i3status
-* 4.1 - i3blocks
-* 4.2 - polybar
+<hr>
 
+<h3>Autores</h3>
 
-### 5 - Iniciador de Aplicativos
-
-* 5.1 - dmenu
-* 5.2 - rofi
-
-
-### 6 - Terminal
-
-* 6.1 - Como alterar o terminal padrão
-* 6.2 - Qual terminal usar?
-* 6.3 - Customizando o terminal
-
-
-### 7 - Customização
-
-* 7.1 - Instalando fontes personalizadas
-* 7.2 - Customizando a polybar
-* 7.3 - Customizando seu rofi
-* 7.4 - Customizando janelas
-
-
-### 8 - Extra
-
-* 8.1 - Usando Conky no i3wm
-* 8.2 - Configurando monitor com xrandr
+<ul>
+<li><b>i386angel</b> - <a href="https://twitter.com/i386angel">Twitter</a> | <a href="https://github.com/i386angel">GitHub</a></li>
+</ul>
