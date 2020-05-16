@@ -33,10 +33,10 @@ ___
 
 <h3>1. Introdução</h3>
 <ul>
-  <li><a href="i3wm/1.1-O_que_e_e_porque_usar.md">1.1 - O que é e porque usar</a></li>
-  <li><a href="i3wm/1.2-Instalacao.md">1.2 - Instalação</a></li>
-  <li><a href="i3wm/1.3-Comandos_sobrevivencia.md">1.3 - Comandos básicos para sobrevivência</a></li>
-  <li><a href="i3wm/1.4-Diretorios_e_funcionalidades.md">1.4 - Diretórios e funcionalidades</a></li>  
+  <li>1.1 - <a href="i3wm/01 - Introdução/1.1-O_que_e_e_porque_usar.md">O que é e porque usar</a></li>
+  <li>1.2 - <a href="i3wm/01 - Introdução/1.2-Instalacao.md">Instalação</a></li>
+  <li>1.3 - <a href="i3wm/01 - Introdução/1.3-Comandos_sobrevivencia.md">Comandos básicos para sobrevivência</a></li>
+  <li>1.4 - <a href="i3wm/01 - Introdução/1.4-Diretorios_e_funcionalidades.md">Diretórios e funcionalidades</a></li>  
 </ul>
 
 <h3>2. Usabilidade</h3>
