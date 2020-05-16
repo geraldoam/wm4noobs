@@ -41,52 +41,52 @@ ___
 
 <h3>2. Usabilidade</h3>
 <ul>
-  <li><a>2.1 - Abrindo processos</a></li>
-  <li><a>2.2 - Manipulando posicionamento de janelas</a></li>
-  <li><a>2.3 - Matando processos</a></li>
+  <li>2.1 - <a href="i3wm/02 - Usabilidade/2.1-Abrindo_processos.md">Abrindo processos</a></li>
+  <li>2.2 - <a href="i3wm/02 - Usabilidade/2.2-Manipulando_janelas.md">Manipulando posicionamento de janelas</a></li>
+  <li>2.3 - <a href="i3wm/02 - Usabilidade/2.3-Matando_processos.md">Matando processos</a></li>
 </ul>
 
 <h3>3. Arquivo de Configuração</h3>
 <ul>
-  <li><a>3.1 - Entendendo conceitos básicos</a></li>
-  <li><a>3.2 - Criando seus próprios atalhos</a></li>
-  <li><a>3.3 - Exec e Exec_Always</a></li>
+  <li>3.1 - <a>Entendendo conceitos básicos</a></li>
+  <li>3.2 - <a>Criando seus próprios atalhos</a></li>
+  <li>3.3 - <a>Exec e Exec_Always</a></li>
   <li><a>3.4 - Configurações básicas da barra de ferramentas</a></li>
 </ul>
 
 <h3>4. Barra de Status</h3>
 <ul>
-  <li><a>4.1 - i3status</a></li>
-  <li><a>4.1 - i3blocks</a></li>
-  <li><a>4.2 - pulybar</a></li>
+  <li>4.1 - <a>i3status</a></li>
+  <li>4.1 - <a>i3blocks</a></li>
+  <li>4.2 - <a>pulybar</a></li>
 </ul>
 
 <h3>5. Iniciador de Aplicativos</h3>
 <ul>
-  <li><a>5.1 - dmenu</a></li>
-  <li><a>5.2 - rofi</a></li>
+  <li>5.1 - <a>dmenu</a></li>
+  <li>5.2 - <a>rofi</a></li>
 </ul>
 
 <h3>6. Terminal</h3>
 <ul>
-  <li><a>6.1 - Como alterar o terminal padrão</a></li>
-  <li><a>6.2 - Qual terminal usar?</a></li>
-  <li><a>6.3 - Customizando o terminal</a></li>
+  <li>6.1 - <a>Como alterar o terminal padrão</a></li>
+  <li>6.2 - <a>Qual terminal usar?</a></li>
+  <li>6.3 - <a>Customizando o terminal</a></li>
 </ul>
 
 <h3>7. Customização</h3>
 <ul>
-  <li><a>7.1 - Instalando fontes personalizadas</a></li>
-  <li><a>7.2 - Customizando a polybar</a></li>
-  <li><a>7.3 - Customizando seu rofi</a></li>
-  <li><a>7.4 - Customizando janelas</a></li>
-  <li><a>7.5 - Instalando temas</a></li>
+  <li>7.1 - <a>Instalando fontes personalizadas</a></li>
+  <li>7.2 - <a>Customizando a polybar</a></li>
+  <li>7.3 - <a>Customizando seu rofi</a></li>
+  <li>7.4 - <a>Customizando janelas</a></li>
+  <li>7.5 - <a>Instalando temas</a></li>
 </ul>
 
 <h3>8. Extra</h3>
 <ul>
-  <li><a>8.1 - Como usar o conky no i3wm</a></li>
-  <li><a>8.2 - Como configurar dois monitores no i3wm usando o xrandr</a></li>
+  <li>8.1 - <a>Como usar o conky no i3wm</a></li>
+  <li>8.2 - <a>Como configurar dois monitores no i3wm usando o xrandr</a></li>
 </ul>
 
 <hr>
