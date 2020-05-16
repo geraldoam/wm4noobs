@@ -87,6 +87,7 @@ ___
 <ul>
   <li>8.1 - <a>Como usar o conky no i3wm</a></li>
   <li>8.2 - <a>Como configurar dois monitores no i3wm usando o xrandr</a></li>
+  <li>8.3 - <a>Visual Studio Code e Sublime Text</a></li>
 </ul>
 
 <hr>
