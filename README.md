@@ -27,6 +27,10 @@ ___
 
 <hr>
 
+<p>Nós recomendamos o <a href="https://github.com/lucashe4rt/linux4noobs">Linux 4 Noobs</a>, caso você tenha dificuldade em manipular o básico do Linux. Você irá precisar desses conhecimentos.</p>
+
+<hr>
+
 <br>
 
 <h2>i3wm</h2>
@@ -48,15 +52,14 @@ ___
 
 <h3>3. Arquivo de Configuração</h3>
 <ul>
-  <li>3.1 - <a>Entendendo conceitos básicos</a></li>
-  <li>3.2 - <a>Criando seus próprios atalhos</a></li>
-  <li>3.3 - <a>Exec e Exec_Always</a></li>
-  <li><a>3.4 - Configurações básicas da barra de ferramentas</a></li>
+  <li>3.1 - <a href="i3wm/03 - Arquivo config/3.1-Entendendo_basicos.md">Entendendo conceitos básicos</a></li>
+  <li>3.2 - <a href="i3wm/03 - Arquivo config/3.2-Criando_atalhos.md">Criando seus próprios atalhos</a></li>
+  <li>3.3 - <a href="i3wm/03 - Arquivo config/3.3-exec_e_exec_always.md">Exec e Exec_Always</a></li>
+  <li>3.4 - <a href="i3wm/03 - Arquivo config/3.4_Configuracoes_basicas.md">Configurações básicas da barra de ferramentas</a></li>
 </ul>
 
 <h3>4. Barra de Status</h3>
 <ul>
-  <li>4.1 - <a>i3status</a></li>
   <li>4.1 - <a>i3blocks</a></li>
   <li>4.2 - <a>polybar</a></li>
 </ul>
@@ -88,6 +91,7 @@ ___
   <li>8.1 - <a>Como usar o conky no i3wm</a></li>
   <li>8.2 - <a>Como configurar dois monitores no i3wm usando o xrandr</a></li>
   <li>8.3 - <a>Visual Studio Code e Sublime Text</a></li>
+  <li>8.4 - <a>Alterando o Wallpaper</a>.</li>
 </ul>
 
 <hr>
