@@ -99,5 +99,5 @@ ___
 <h3>Autores</h3>
 
 <ul>
-<li><b>i386angel</b> - <a href="https://twitter.com/i386angel">Twitter</a> | <a href="https://github.com/i386angel">GitHub</a></li>
+<li><b>i386angel</b> - <a href="https://github.com/i386angel">GitHub</a></li>
 </ul>
