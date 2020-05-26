@@ -60,8 +60,8 @@ ___
 
 <h3>4. Barra de Status</h3>
 <ul>
-  <li>4.1 - <a>i3blocks</a></li>
-  <li>4.2 - <a>polybar</a></li>
+  <li>4.1 - <a href="i3wm/04 - Barra de Status/4.1-i3blocks.md">i3blocks</a></li>
+  <li>4.2 - <a href="i3wm/04 - Barra de Status/4.2-polybar.md">polybar</a></li>
 </ul>
 
 <h3>5. Iniciador de Aplicativos</h3>
