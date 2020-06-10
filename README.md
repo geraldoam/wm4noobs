@@ -66,15 +66,14 @@ ___
 
 <h3>5. Iniciador de Aplicativos</h3>
 <ul>
-  <li>5.1 - <a>dmenu</a></li>
-  <li>5.2 - <a>rofi</a></li>
+  <li>5.1 - <a href="i3wm/05 - Iniciador de Aplicativos/5.1-dmenu.md">dmenu</a></li>
+  <li>5.2 - <a href="i3wm/05 - Iniciador de Aplicativos/5.2-rofi.md">rofi</a></li>
 </ul>
 
 <h3>6. Terminal</h3>
 <ul>
-  <li>6.1 - <a>Como alterar o terminal padrão</a></li>
-  <li>6.2 - <a>Qual terminal usar?</a></li>
-  <li>6.3 - <a>Customizando o terminal</a></li>
+  <li>6.1 - <a href="i3wm/06 - Terminal/6.1-Alterando_terminal.md">Como alterar o terminal padrão</a></li>
+  <li>6.2 - <a href="i3wm/06 - Terminal/6.2-Customizando_terminal.md">Customizando o terminal</a></li>
 </ul>
 
 <h3>7. Customização</h3>
@@ -99,5 +98,5 @@ ___
 <h3>Autores</h3>
 
 <ul>
-<li><b>i386angel</b> - <a href="https://github.com/i386angel">GitHub</a></li>
+<li><b>i386angel</b> - <a href="https://github.com/i386angel">GitHub</a> | <a href="https://twitter.com/i386angel">Twitter</a></li>
 </ul>
