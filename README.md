@@ -78,21 +78,17 @@ ___
 
 <h3>7. Customização</h3>
 <ul>
-  <li>7.1 - <a>Instalando fontes personalizadas</a></li>
-  <li>7.2 - <a>Customizando a polybar</a></li>
-  <li>7.3 - <a>Customizando seu rofi</a></li>
-  <li>7.4 - <a>Customizando janelas</a></li>
-  <li>7.5 - <a>Instalando temas</a></li>
+  <li>7.1 - <a href="i3wm/07 - Customização/7.1-Instalando_fontes.md">Instalando fontes personalizadas</a></li>
+  <li>7.2 - <a href="i3wm/07 - Customização/7.2-Customizando_polybar.md">Customizando a polybar</a></li>
+  <li>7.3 - <a href="i3wm/07 - Customização/7.3-Customizando_rofi.md">Customizando seu rofi</a></li>
+  <li>7.4 - <a href="i3wm/07 - Customização/7.4-Customizando_janelas.md">Customizando janelas</a></li>
+  <li>7.5 - <a href="i3wm/07 - Customização/7.5-Instalando_temas.md">Instalando temas</a></li>
 </ul>
 
 <h3>8. Extra</h3>
 <ul>
-  <li>8.1 - <a>Como usar o conky no i3wm</a></li>
-  <li>8.2 - <a>Como configurar dois monitores no i3wm usando o xrandr</a></li>
-  <li>8.3 - <a>Visual Studio Code e Sublime Text</a></li>
-  <li>8.4 - <a>Alterando o Wallpaper</a>.</li>
-</ul>
-
+  <li>8.1 - <a href="i3wm/08 - Extra/8.1-xrandr.md">Como configurar dois monitores no i3wm usando o xrandr</a></li>
+  <li>8.2 - <a href="i3wm/08 - Extra/8.2-Alterando_wallpapers.md">Alterando o Wallpaper</a></li>
 <hr>
 
 <h3>Autores</h3>
