@@ -94,5 +94,5 @@ ___
 <h3>Autores</h3>
 
 <ul>
-<li><b>i386angel</b> - <a href="https://github.com/i386angel" target="__blank">GitHub</a> | <a href="https://twitter.com/i386angel" target="__blank">Twitter</a></li>
+<li><b>i686leak</b> - <a href="https://github.com/i686leak" target="__blank">GitHub</a> | <a href="https://twitter.com/i686leak" target="__blank">Twitter</a></li>
 </ul>
