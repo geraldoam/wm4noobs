@@ -55,7 +55,7 @@ ___
   <li>3.1 - <a href="i3wm/03 - Arquivo config/3.1-Entendendo_basicos.md">Entendendo conceitos básicos</a></li>
   <li>3.2 - <a href="i3wm/03 - Arquivo config/3.2-Criando_atalhos.md">Criando seus próprios atalhos</a></li>
   <li>3.3 - <a href="i3wm/03 - Arquivo config/3.3-exec_e_exec_always.md">Exec e Exec_Always</a></li>
-  <li>3.4 - <a href="i3wm/03 - Arquivo config/3.4_Configuracoes_basicas.md">Configurações básicas da barra de ferramentas</a></li>
+  <li>3.4 - <a href="i3wm/03 - Arquivo config/3.4-Configuracoes_basicas.md">Configurações básicas da barra de ferramentas</a></li>
 </ul>
 
 <h3>4. Barra de Status</h3>
