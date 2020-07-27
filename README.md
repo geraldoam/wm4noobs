@@ -37,58 +37,58 @@ ___
 
 <h3>1. Introdução</h3>
 <ul>
-  <li>1.1 - <a href="i3wm/01 - Introdução/1.1-O_que_e_e_porque_usar.md">O que é e porque usar</a></li>
-  <li>1.2 - <a href="i3wm/01 - Introdução/1.2-Instalacao.md">Instalação</a></li>
-  <li>1.3 - <a href="i3wm/01 - Introdução/1.3-Comandos_sobrevivencia.md">Comandos básicos para sobrevivência</a></li>
-  <li>1.4 - <a href="i3wm/01 - Introdução/1.4-Diretorios_e_funcionalidades.md">Diretórios e funcionalidades</a></li>  
+  <li>1.1 - <a href="4noobsDocs/01 - Introdução/1.1-O_que_e_e_porque_usar.md">O que é e porque usar</a></li>
+  <li>1.2 - <a href="4noobsDocs/01 - Introdução/1.2-Instalacao.md">Instalação</a></li>
+  <li>1.3 - <a href="4noobsDocs/01 - Introdução/1.3-Comandos_sobrevivencia.md">Comandos básicos para sobrevivência</a></li>
+  <li>1.4 - <a href="4noobsDocs/01 - Introdução/1.4-Diretorios_e_funcionalidades.md">Diretórios e funcionalidades</a></li>  
 </ul>
 
 <h3>2. Usabilidade</h3>
 <ul>
-  <li>2.1 - <a href="i3wm/02 - Usabilidade/2.1-Abrindo_processos.md">Abrindo processos</a></li>
-  <li>2.2 - <a href="i3wm/02 - Usabilidade/2.2-Manipulando_janelas.md">Manipulando posicionamento de janelas</a></li>
-  <li>2.3 - <a href="i3wm/02 - Usabilidade/2.3-Matando_processos.md">Matando processos</a></li>
+  <li>2.1 - <a href="4noobsDocs/02 - Usabilidade/2.1-Abrindo_processos.md">Abrindo processos</a></li>
+  <li>2.2 - <a href="4noobsDocs/02 - Usabilidade/2.2-Manipulando_janelas.md">Manipulando posicionamento de janelas</a></li>
+  <li>2.3 - <a href="4noobsDocs/02 - Usabilidade/2.3-Matando_processos.md">Matando processos</a></li>
 </ul>
 
 <h3>3. Arquivo de Configuração</h3>
 <ul>
-  <li>3.1 - <a href="i3wm/03 - Arquivo config/3.1-Entendendo_basicos.md">Entendendo conceitos básicos</a></li>
-  <li>3.2 - <a href="i3wm/03 - Arquivo config/3.2-Criando_atalhos.md">Criando seus próprios atalhos</a></li>
-  <li>3.3 - <a href="i3wm/03 - Arquivo config/3.3-exec_e_exec_always.md">Exec e Exec_Always</a></li>
-  <li>3.4 - <a href="i3wm/03 - Arquivo config/3.4-Configuracoes_basicas.md">Configurações básicas da barra de ferramentas</a></li>
+  <li>3.1 - <a href="4noobsDocs/03 - Arquivo config/3.1-Entendendo_basicos.md">Entendendo conceitos básicos</a></li>
+  <li>3.2 - <a href="4noobsDocs/03 - Arquivo config/3.2-Criando_atalhos.md">Criando seus próprios atalhos</a></li>
+  <li>3.3 - <a href="4noobsDocs/03 - Arquivo config/3.3-exec_e_exec_always.md">Exec e Exec_Always</a></li>
+  <li>3.4 - <a href="4noobsDocs/03 - Arquivo config/3.4-Configuracoes_basicas.md">Configurações básicas da barra de ferramentas</a></li>
 </ul>
 
 <h3>4. Barra de Status</h3>
 <ul>
-  <li>4.1 - <a href="i3wm/04 - Barra de Status/4.1-i3blocks.md">i3blocks</a></li>
-  <li>4.2 - <a href="i3wm/04 - Barra de Status/4.2-polybar.md">polybar</a></li>
+  <li>4.1 - <a href="4noobsDocs/04 - Barra de Status/4.1-i3blocks.md">i3blocks</a></li>
+  <li>4.2 - <a href="4noobsDocs/04 - Barra de Status/4.2-polybar.md">polybar</a></li>
 </ul>
 
 <h3>5. Iniciador de Aplicativos</h3>
 <ul>
-  <li>5.1 - <a href="i3wm/05 - Iniciador de Aplicativos/5.1-dmenu.md">dmenu</a></li>
-  <li>5.2 - <a href="i3wm/05 - Iniciador de Aplicativos/5.2-rofi.md">rofi</a></li>
+  <li>5.1 - <a href="4noobsDocs/05 - Iniciador de Aplicativos/5.1-dmenu.md">dmenu</a></li>
+  <li>5.2 - <a href="4noobsDocs/05 - Iniciador de Aplicativos/5.2-rofi.md">rofi</a></li>
 </ul>
 
 <h3>6. Terminal</h3>
 <ul>
-  <li>6.1 - <a href="i3wm/06 - Terminal/6.1-Alterando_terminal.md">Como alterar o terminal padrão</a></li>
-  <li>6.2 - <a href="i3wm/06 - Terminal/6.2-Customizando_terminal.md">Customizando o terminal</a></li>
+  <li>6.1 - <a href="4noobsDocs/06 - Terminal/6.1-Alterando_terminal.md">Como alterar o terminal padrão</a></li>
+  <li>6.2 - <a href="4noobsDocs/06 - Terminal/6.2-Customizando_terminal.md">Customizando o terminal</a></li>
 </ul>
 
 <h3>7. Customização</h3>
 <ul>
-  <li>7.1 - <a href="i3wm/07 - Customização/7.1-Instalando_fontes.md">Instalando fontes personalizadas</a></li>
-  <li>7.2 - <a href="i3wm/07 - Customização/7.2-Customizando_polybar.md">Customizando a polybar</a></li>
-  <li>7.3 - <a href="i3wm/07 - Customização/7.3-Customizando_rofi.md">Customizando seu rofi</a></li>
-  <li>7.4 - <a href="i3wm/07 - Customização/7.4-Customizando_janelas.md">Customizando janelas</a></li>
-  <li>7.5 - <a href="i3wm/07 - Customização/7.5-Instalando_temas.md">Instalando temas</a></li>
+  <li>7.1 - <a href="4noobsDocs/07 - Customização/7.1-Instalando_fontes.md">Instalando fontes personalizadas</a></li>
+  <li>7.2 - <a href="4noobsDocs/07 - Customização/7.2-Customizando_polybar.md">Customizando a polybar</a></li>
+  <li>7.3 - <a href="4noobsDocs/07 - Customização/7.3-Customizando_rofi.md">Customizando seu rofi</a></li>
+  <li>7.4 - <a href="4noobsDocs/07 - Customização/7.4-Customizando_janelas.md">Customizando janelas</a></li>
+  <li>7.5 - <a href="4noobsDocs/07 - Customização/7.5-Instalando_temas.md">Instalando temas</a></li>
 </ul>
 
 <h3>8. Extra</h3>
 <ul>
-  <li>8.1 - <a href="i3wm/08 - Extra/8.1-xrandr.md">Como configurar dois monitores no i3wm usando o xrandr</a></li>
-  <li>8.2 - <a href="i3wm/08 - Extra/8.2-Alterando_wallpapers.md">Alterando o Wallpaper</a></li>
+  <li>8.1 - <a href="4noobsDocs/08 - Extra/8.1-xrandr.md">Como configurar dois monitores no i3wm usando o xrandr</a></li>
+  <li>8.2 - <a href="4noobsDocs/08 - Extra/8.2-Alterando_wallpapers.md">Alterando o Wallpaper</a></li>
 <hr>
 
 <h3>Autores</h3>
