@@ -94,5 +94,5 @@ ___
 <h3>Autores</h3>
 
 <ul>
-<li><b>gerald0x01</b> - <a href="https://github.com/g3ra7din" target="__blank">GitHub</a> | <a href="https://twitter.com/g3ra7din" target="__blank">Twitter</a></li>
+<li><b>Geraldin</b> - <a href="https://github.com/g3ra7din" target="__blank">GitHub</a> | <a href="https://twitter.com/g3ra7din" target="__blank">Twitter</a></li>
 </ul>
