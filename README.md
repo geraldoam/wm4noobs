@@ -94,5 +94,5 @@ ___
 <h3>Autores</h3>
 
 <ul>
-<li><b>Geraldo</b> - <a href="https://github.com/geraldoam" target="__blank">GitHub</a>
+<li><b>Geraldo</b> - <a href="https://github.com/geraldoahnert" target="__blank">GitHub</a>
 </ul>
